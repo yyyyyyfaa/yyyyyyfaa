@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yifan Yang
 
-<!--
-**yyyyyyfaa/yyyyyyfaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated from LMU Munich in Computer Science and Statistics. My projects focus on data analysis, explainable machine learning, and the evaluation of LLM-generated code.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LLM Decompiler Metric Evaluation](https://github.com/yyyyyyfaa/LLM-decompiler-metric-evaluation) — Bachelor's thesis comparing automatic evaluation metrics with manual analysis of decompiled code.
+- [Munich Open Data Analysis](https://github.com/yyyyyyfaa/munich-open-data-analysis) — R analysis of bicycle traffic, weather, and Oktoberfest beer prices.
+- [KNN-Shapley and Conditional Imputation](https://github.com/yyyyyyfaa/SEP_ALML_GroupD) — Team project; my contributions include unweighted KNN-Shapley and a Gaussian conditional imputer.
+
+## Skills
+
+Python · R · Java · pandas · NumPy · scikit-learn
+
+## Languages
+
+Chinese · English (IELTS 7.0) · German (Goethe-Zertifikat B2)
+
+## Contact
+
+yangyifanwx@163.com
