@@ -1,6 +1,6 @@
 # Yifan Yang
 
-I graduated from LMU Munich in Computer Science and Statistics. My projects focus on data analysis, explainable machine learning, and the evaluation of LLM-generated code.
+I'm expected to graduate from LMU Munich in Computer Science and Statistics in 2026. My projects focus on data analysis, explainable machine learning, and the evaluation of LLM-generated code.
 
 ## Selected projects
 
